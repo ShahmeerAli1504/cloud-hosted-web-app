@@ -1,4 +1,4 @@
-# Full-Stack CRUD Auth Web App Deployment Guide (SERN Stack)
+# Full Stack web Hosted on Cloud(AWS)
 
 This guide walks you through deploying a **SERN (SQL, Express, React, Node.js)** stack application on **AWS**, using:
 
